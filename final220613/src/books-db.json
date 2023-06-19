@@ -1,0 +1,5 @@
+{ 
+  "books": 
+  [ { "id":1, "title": "토지", "author": "박경리", "price":25000 }, 
+    { "id":2, "title": "태백산맥", "author": "조정래", "price":18000 }]
+}
